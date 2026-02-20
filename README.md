@@ -2,7 +2,7 @@
 
 **Email:** [ksrigowthami@gmail.com](mailto:ksrigowthami@gmail.com)
 **LinkedIn:** srigowthamikatragadda
-**GitHub:** Gowthami-3012
+**GitHub:** Sri-Gowthami-Katragadda
 
 ---
 
