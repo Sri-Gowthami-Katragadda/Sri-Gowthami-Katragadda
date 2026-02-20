@@ -1,107 +1,107 @@
-# SRI GOWTHAMI KATRAGADDA
+# Sri Gowthami Katragadda
 
-**Email:** [ksrigowthami@gmail.com](mailto:ksrigowthami@gmail.com)
-**LinkedIn:** srigowthamikatragadda
-**GitHub:** Sri-Gowthami-Katragadda
+## Profile
 
----
-
-## OBJECTIVE
-
-Motivated Python and Machine Learning Engineer with hands-on experience in data analysis, model development using scikit-learn, and building ML applications. Currently working as an AI/ML Intern while transitioning into AI/ML and cloud-based solutions. Passionate about applying data-driven approaches to solve real-world problems.
+AI/ML enthusiast with a strong foundation in Python programming, data analysis, and machine learning model development. Experienced in building end-to-end workflows including data preprocessing, exploratory analysis, model training, and evaluation. Currently working as an AI/ML Intern, focused on applying data-driven solutions and expanding skills in model deployment and cloud-based technologies.
 
 ---
 
-## EDUCATION
+## Core Competencies
 
-**B.Tech in Computer Science and Engineering (Artificial Intelligence & Machine Learning)**
-Malla Reddy Engineering College (JNTU) — 2020–2024
-Percentage: 89.2%
-
-**Intermediate — Sri Chaitanya Junior Kalashala**
-Percentage: 97.5% (2020)
-
-**SSC — Sri Sai Vidyanikethan High School**
-GPA: 10.0 (2018)
+* Machine Learning Model Development (Regression and Classification)
+* Data Preprocessing and Feature Engineering
+* Exploratory Data Analysis and Visualization
+* Python Programming and Problem Solving
+* Database Management using MySQL
+* Version Control using Git and GitHub
+* Building Practical ML Applications
 
 ---
 
-## WORK EXPERIENCE
+## Technical Skills
 
-**AI/ML Intern — Datavalley India Private Limited**
+**Programming Languages**
+Python, C, Basic Java
 
-* Working with Python, Machine Learning algorithms, and MySQL.
-* Assisted in developing ML-based solutions and integrating them with frontend technologies.
-* Built data-driven workflows from preprocessing to model evaluation.
+**Machine Learning**
+Linear Regression, Logistic Regression, Decision Trees, KNN
+Model Evaluation: Accuracy, Confusion Matrix, Cross Validation
+Data Preparation: Missing Value Handling, Encoding, Feature Scaling
+
+**Data Analysis Tools**
+Pandas, NumPy, Matplotlib
+
+**Database**
+MySQL (Joins, Queries, Schema Design, Data Manipulation)
+
+**Tools & Environment**
+Jupyter Notebook, VS Code, Git, GitHub, Streamlit (Learning)
+
+**Web Technologies (Working Knowledge)**
+HTML, CSS, JavaScript, Django
+
+---
+
+## Professional Experience
+
+**AI/ML Intern — Datavalley India Pvt. Ltd.**
+
+* Working on machine learning workflows using Python and MySQL.
+* Supporting development of data-driven applications and model integration.
+* Performing preprocessing, analysis, and evaluation of datasets.
 
 **Data Engineering Role — Foxconn Interconnect Technology (FIT)**
 
-* Monitored and maintained data integration between automated production systems.
-* Validated and analyzed large-scale datasets for operational reporting.
-* Performed audit checks, error analysis, and ensured data consistency.
-* Coordinated with cross-functional teams for stable deployment of solutions.
+* Managed and validated production data pipelines to ensure accuracy and reliability.
+* Conducted data audits and error analysis to support operational reporting.
+* Collaborated with technical teams to maintain stable deployment environments.
 
 ---
 
-## TECHNICAL SKILLS
-
-**Programming Languages:**
-Python, C, Basic Java
-
-**Machine Learning:**
-Linear Regression, Logistic Regression, Decision Trees, KNN
-Data Preprocessing, Feature Scaling, Model Evaluation
-Train-Test Split, Cross Validation, EDA
-
-**Data Analysis & Visualization:**
-Pandas, NumPy, Matplotlib
-
-**Database:**
-MySQL (Joins, Subqueries, Schema Design, Data Manipulation)
-
-**Tools & Platforms:**
-Git, GitHub, Jupyter Notebook, VS Code, Streamlit (Learning)
-
-**Web Technologies:**
-HTML, CSS, JavaScript, Django (Basic)
-
----
-
-## PROJECTS
+## Projects
 
 **Visual Gaze Tracking System**
-Technologies: Python, Machine Learning, Computer Vision
-
-* Developed a gaze-controlled smart lighting system.
-* Detects eye movement and maps gaze direction to control devices.
-* Provides hands-free interaction suitable for accessibility solutions.
+Developed a computer-vision-based solution that enables users to control lighting through eye movement detection, providing a hands-free interaction model suitable for smart environments and accessibility applications.
 
 **Graphical Password Authentication System**
-Technologies: Django, HTML, CSS, JavaScript
-
-* Designed an image-based authentication system to enhance security.
-* Resistant to brute-force and shoulder-surfing attacks.
-* Improves usability through visual memory recognition.
+Designed and implemented a graphical authentication mechanism using Django and web technologies to enhance security and usability compared to traditional password systems.
 
 ---
 
-## CERTIFICATIONS
+## Education
 
-* NPTEL — Data Structures and Algorithms, Algorithm Design and Analysis
-* HackerRank — Python, SQL (Basic and Intermediate)
-
----
-
-## ACHIEVEMENTS
-
-* Achieved 2-Star rating in Python on HackerRank.
-* Recognized as School Topper in SSC with 10 GPA.
+Bachelor of Technology in Computer Science and Engineering (Artificial Intelligence and Machine Learning)
+Malla Reddy Engineering College, 2020–2024
+Percentage: 89.2%
 
 ---
 
-## CURRENT LEARNING FOCUS
+## Certifications
 
-* Advanced Machine Learning Concepts
-* Model Optimization and Evaluation Techniques
-* Deployment of ML Models using Streamlit
-* Cloud Integration for Machine Learning Applications
+* Data Structures and Algorithms — NPTEL
+* Algorithm Design and Analysis — NPTEL
+* Python and SQL Certifications — HackerRank
+
+---
+
+## Achievements
+
+* Recognized as School Topper with a perfect GPA in Secondary Education.
+* Earned Python proficiency recognition on HackerRank.
+
+---
+
+## Current Focus
+
+* Strengthening understanding of advanced machine learning concepts
+* Improving model performance and evaluation techniques
+* Learning deployment of ML models and real-world application integration
+* Exploring cloud technologies for scalable AI solutions
+
+---
+
+## Contact
+
+Email: [ksrigowthami@gmail.com](mailto:ksrigowthami@gmail.com)
+LinkedIn: srigowthamikatragadda
+GitHub: Sri-Gowthami-Katragadda
