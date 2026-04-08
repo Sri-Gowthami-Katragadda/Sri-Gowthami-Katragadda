@@ -1,109 +1,74 @@
-# Sri Gowthami Katragadda
+# Hi, I'm Katragadda Sri Gowthami 👋  
 
-## Profile
-
-AI/ML enthusiast with a strong foundation in Python programming, data analysis, and machine learning model development. Experienced in building end-to-end workflows including data preprocessing, exploratory analysis, model training, and evaluation. Currently working as an AI/ML Intern, focused on applying data-driven solutions and expanding skills in model deployment and cloud-based technologies.
-
----
-
-## Core Competencies
-
-* Machine Learning Model Development (Regression and Classification)
-* Data Preprocessing and Feature Engineering
-* Exploratory Data Analysis and Visualization
-* Python Programming and Problem Solving
-* Database Management using MySQL
-* Version Control using Git and GitHub
-* Building Practical ML Applications
+🚀 AI/ML Engineer | Deep Learning | PyTorch | Streamlit Deployment  
+🎓 B.Tech CSE (AI/ML) | CGPA: 8.92  
+💼 Ex-Data Engineer @ Foxconn Interconnect Technology  
+📍 India | Open to Relocation | Immediate Joiner  
 
 ---
 
-## Technical Skills
+## 👩‍💻 About Me  
+I am an AI/ML Engineer with strong foundation in Machine Learning, Deep Learning, and end-to-end model deployment.  
+I have worked as a Data Engineer at Foxconn, where I maintained Hive-based manufacturing data pipelines and performed large-scale data auditing.  
 
-**Programming Languages**
-Python, C, Basic Java
-
-**Machine Learning**
-Linear Regression, Logistic Regression, Decision Trees, KNN
-Model Evaluation: Accuracy, Confusion Matrix, Cross Validation
-Data Preparation: Missing Value Handling, Encoding, Feature Scaling
-
-**Data Analysis Tools**
-Pandas, NumPy, Matplotlib
-
-**Database**
-MySQL (Joins, Queries, Schema Design, Data Manipulation)
-
-**Tools & Environment**
-Jupyter Notebook, VS Code, Git, GitHub, Streamlit (Learning)
-
-**Web Technologies (Working Knowledge)**
-HTML, CSS, JavaScript, Django
+Currently, I am working as an AI/ML Engineer Intern at Datavalley, building ML/DL models for real-world classification and regression tasks.  
 
 ---
 
-## Professional Experience
-
-**AI/ML Intern — Datavalley India Pvt. Ltd.**
-
-* Working on machine learning workflows using Python and MySQL.
-* Supporting development of data-driven applications and model integration.
-* Performing preprocessing, analysis, and evaluation of datasets.
-
-**Data Engineering Role — Foxconn Interconnect Technology (FIT)**
-
-* Managed and validated production data pipelines to ensure accuracy and reliability.
-* Conducted data audits and error analysis to support operational reporting.
-* Collaborated with technical teams to maintain stable deployment environments.
+## 🛠️ Technical Skills  
+- **Machine Learning:** Logistic Regression, Decision Trees, Random Forest, SVM, KNN, Clustering, PCA  
+- **Deep Learning:** ANN, CNN, RNN/LSTM, Transformers, PyTorch  
+- **NLP:** Tokenization, Embeddings, CountVectorizer  
+- **Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn, EDA  
+- **Tools:** Streamlit, Git, GitHub, Jupyter, Google Colab, VS Code  
+- **Cloud:** Google Cloud Platform (GCP)  
+- **SQL:** Joins, Window Functions  
 
 ---
 
-## Projects
+## 📌 Featured Projects  
 
-**Visual Gaze Tracking System**
-Developed a computer-vision-based solution that enables users to control lighting through eye movement detection, providing a hands-free interaction model suitable for smart environments and accessibility applications.
+### ❤️ Heart Disease Prediction System  
+🔹 Built an end-to-end ML classification pipeline predicting heart disease risk using clinical data.  
+🔹 Implemented Logistic Regression, Decision Tree, Random Forest with evaluation metrics (Precision, Recall, F1-score, ROC-AUC).  
+🔹 Achieved **0.89 F1-score** and deployed using **Streamlit**.  
 
-**Graphical Password Authentication System**
-Designed and implemented a graphical authentication mechanism using Django and web technologies to enhance security and usability compared to traditional password systems.
-
----
-
-## Education
-
-Bachelor of Technology in Computer Science and Engineering (Artificial Intelligence and Machine Learning)
-Malla Reddy Engineering College, 2020–2024
-Percentage: 89.2%
+📌 Tech Stack: Python, Scikit-learn, Pandas, NumPy, Streamlit  
 
 ---
 
-## Certifications
+### 🎬 Movie Recommendation System  
+🔹 Built a content-based recommendation engine using NLP techniques.  
+🔹 Used CountVectorizer + Cosine Similarity for ranking and personalization.  
+🔹 Working towards deployment with Streamlit.  
 
-* Data Structures and Algorithms — NPTEL
-* Algorithm Design and Analysis — NPTEL
-* Python and SQL Certifications — HackerRank
-
----
-
-## Achievements
-
-* Recognized as School Topper with a perfect GPA in Secondary Education.
-* Earned Python proficiency recognition on HackerRank.
+📌 Tech Stack: Python, NLP, Scikit-learn, Streamlit  
 
 ---
 
-## Current Focus
+## 💼 Experience  
 
-* Strengthening understanding of advanced machine learning concepts
-* Improving model performance and evaluation techniques
-* Learning deployment of ML models and real-world application integration
-* Exploring cloud technologies for scalable AI solutions
+### AI/ML Engineer Intern - Datavalley (Sep 2025 - Present)  
+- Built ML and deep learning models for classification/regression tasks (50,000+ records).  
+- Applied feature engineering, hyperparameter tuning (GridSearchCV), and cross-validation.  
+- Evaluated models using Accuracy, Precision, Recall, F1-score, ROC-AUC.  
+
+### Data Engineer - Foxconn Interconnect Technology (Aug 2024 - Aug 2025)  
+- Maintained Hive-based data integration pipelines for real-time manufacturing data.  
+- Performed large-scale data auditing and validation for operational decision-making.  
 
 ---
 
-## Contact
+## 🏆 Coding Profiles  
+- ⭐ HackerRank: 3-Star Python | 2-Star SQL  
+- GitHub: ML & Computer Vision Projects  
 
-Email: [ksrigowthami@gmail.com](mailto:ksrigowthami@gmail.com)
+---
 
-LinkedIn: srigowthamikatragadda
+## 📫 Contact Me  
+📧 Email: ksrigowthami@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/sri-gowthami-katragadda-3041ba1bb/  
+💻 GitHub: https://github.com/Sri-Gowthami-Katragadda  
 
-GitHub: Sri-Gowthami-Katragadda
+---
+⭐ Feel free to explore my repositories and projects!
